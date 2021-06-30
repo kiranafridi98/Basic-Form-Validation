@@ -1,0 +1,8 @@
+.container{
+    border: 10px solid purple;
+    padding: 50px;
+    
+}
+#error{
+    color: red;
+}
